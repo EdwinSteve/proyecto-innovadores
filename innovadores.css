@@ -1,0 +1,36 @@
+body
+{
+    background-color: #1d2127;
+    color: #fff;
+    font-family: "Overpass Mono", monospace;
+    padding: 0;
+    margin: 0; 
+}
+
+h1 
+{
+    margin: 0 0 0 8px;
+    padding-top: 8px;
+}
+
+.participantes 
+{
+    color: rgb(223, 96, 96);
+    font-family: cursive;
+
+}
+
+
+
+.logo
+{
+    width: 250px;
+    height: 250px;
+}
+
+
+.carac
+{
+    width: 250px;
+    height: 250px;
+}
